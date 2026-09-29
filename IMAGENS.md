@@ -13,3 +13,9 @@ Use case: photorealistic-natural. Asset type: automotive workshop service photo,
 ## alinhamento.webp
 
 Use case: photorealistic-natural. Asset type: automotive workshop wheel service photo, landscape 1536x1024. Create a fictional photorealistic premium modern Brazilian automotive workshop wheel alignment and balancing bay. A silver unbranded car correctly positioned on a red alignment platform with credible wheel sensor targets attached to the wheels; nearby a red wheel balancing machine with a wheel mounted on its horizontal spindle. Accurate coherent automotive machinery, clean professional space, full practical service bay shown in a wide three-quarter composition. Graphite #121212 walls and red #E31A1A equipment, natural concrete floor, crisp realistic metal and rubber textures. Bright readable overhead workshop lighting with restrained premium photographic contrast. No logos, no watermark, no marketing text, no business signage. This is a fictional illustrative scene, not a photograph of an actual named business.
+
+## oficina-sem-texto.webp — edição da publicação de Cambé
+
+Ferramenta nativa image_gen. Arquivo de entrada: `dist/assets/marca/cambe-oficial.webp`. Resultado integrado: `dist/assets/marca/oficina-sem-texto.webp`. A cena foi reconstruída por IA onde havia textos; o original está preservado. Conversão para WebP sem alteração da composição.
+
+Prompt: Edit this workshop photograph poster. Remove ALL overlaid text: 'Chegou em Cambé', the rounded black text plaque and all its lettering, and the small FC logo near the bottom. Reconstruct the underlying workshop naturally. Preserve exactly the cars, lifts, positions, camera angle, real workshop appearance, dimensions and colors. This must be only a photograph of the same workshop with no marketing text, no logo overlay, no labels or graphic panels. Do not redesign the workshop or add cars. Keep photographic realism.

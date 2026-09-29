@@ -8,7 +8,7 @@
 - Serviços separados: câmbio automático, injeção eletrônica, freios, alinhamento, balanceamento, revisão e manutenção. Troca de óleo, suspensão, direção hidráulica e ar-condicionado permanecem como serviços complementares.
 - Missão e valores transcritos das artes do usuário. Visão atualizada conforme solicitado: Ser reconhecido como o centro automotivo mais confiável e completo de Cambé e região.
 - Botões abrem WhatsApp, telefone, e-mail, Instagram, Facebook e Google Maps. Não simulam agendamento confirmado.
-- Área de depoimentos preparada, aguardando avaliações reais autorizadas.
+- Depoimento de Alessandro Lourenço, com cinco estrelas preenchidas, fornecido pelo usuário. Crédito AlePejo no rodapé com WhatsApp 5543991544557 e mensagem solicitada.
 
 ## Pesquisa e fontes verificadas em 29/09/2026
 
