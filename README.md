@@ -6,7 +6,7 @@
 - Visual baseado nas artes fornecidas: preto, vermelho/vinho, títulos condensados Anton, botões cápsula brancos com extensão vermelha e detalhes geométricos.
 - Fontes: Anton para títulos, Inter para leitura; fontes alternativas de sistema.
 - Serviços separados: câmbio automático, injeção eletrônica, freios, alinhamento, balanceamento, revisão e manutenção. Troca de óleo, suspensão, direção hidráulica e ar-condicionado permanecem como serviços complementares.
-- Missão, visão e valores transcritos das artes do usuário. A visão menciona Londrina e região, como no original; endereço de atendimento permanece em Cambé.
+- Missão e valores transcritos das artes do usuário. Visão atualizada conforme solicitado: Ser reconhecido como o centro automotivo mais confiável e completo de Cambé e região.
 - Botões abrem WhatsApp, telefone, e-mail, Instagram, Facebook e Google Maps. Não simulam agendamento confirmado.
 - Área de depoimentos preparada, aguardando avaliações reais autorizadas.
 
