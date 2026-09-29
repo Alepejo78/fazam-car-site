@@ -7,7 +7,7 @@
 - Fontes: Anton para títulos, Inter para leitura; fontes alternativas de sistema.
 - Serviços separados: câmbio automático, injeção eletrônica, freios, alinhamento, balanceamento, revisão e manutenção. Troca de óleo, suspensão, direção hidráulica e ar-condicionado permanecem como serviços complementares.
 - Missão e valores transcritos das artes do usuário. Visão atualizada conforme solicitado: Ser reconhecido como o centro automotivo mais confiável e completo de Cambé e região.
-- Botões abrem WhatsApp, telefone, e-mail, Instagram, Facebook e Google Maps. Não simulam agendamento confirmado.
+- Botões abrem WhatsApp, telefone, formulário de contato, Instagram, Facebook e Google Maps. O formulário envia os dados para `fazamcar.fazam@gmail.com` pelo FormSubmit e exige e-mail ou telefone para retorno.
 - Depoimento de Alessandro Lourenço, com cinco estrelas preenchidas, fornecido pelo usuário. Crédito AlePejo no rodapé com WhatsApp 5543991544557 e mensagem solicitada.
 
 ## Pesquisa e fontes verificadas em 29/09/2026
@@ -29,3 +29,5 @@ A legenda de freios foi corrigida para descrever frenagem; a arte enviada repeti
 ## Uso
 
 Sirva `dist` em qualquer hospedagem estática. Não exige instalação ou compilação. Os arquivos antigos e uma cópia HTML encontrada no projeto foram preservados.
+
+No primeiro envio do formulário, o FormSubmit encaminha uma confirmação para `fazamcar.fazam@gmail.com`. O endereço precisa ser ativado pelo link recebido para liberar os próximos contatos.
