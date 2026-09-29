@@ -1,0 +1,15 @@
+# Imagens fictícias — Fazam Car
+
+Método: ferramenta nativa image_gen, três gerações independentes, 1536 × 1024. Conversão de formato para WebP para reduzir o peso, sem alterar a composição. Todos os arquivos ficam em `dist/assets/`.
+
+## elevador.webp
+
+Use case: photorealistic-natural. Asset type: automotive workshop website hero, landscape 1536x1024. Create a fictional photorealistic premium modern Brazilian automotive workshop. A full silver unbranded sedan securely raised on a red two-post vehicle lift with correctly positioned supporting arms, seen in three-quarter front view. Right-weighted composition with quieter dark workshop space on the left, entire car visible. Graphite #121212 workshop walls and vivid red #E31A1A equipment. Dramatic but readable realistic workshop lighting, subtle overhead strip lights, natural metallic reflections, clean professional bay, credible automotive proportions and machinery. High-end documentary architectural photography, detailed realistic materials. No logos, no watermarks, no marketing text, no signage. This is a fictional illustrative scene, not a photograph of an actual named business.
+
+## diagnostico.webp
+
+Use case: photorealistic-natural. Asset type: automotive workshop service photo, landscape 1536x1024. Create a fictional photorealistic premium modern Brazilian automotive workshop. A professional mechanic in a charcoal work uniform diagnoses a silver unbranded car with its hood open, holding a diagnostic tablet prominently beside the engine bay. Tablet screen shows plausible diagnostic line graphs and instrument readings without brands or marketing text. Natural anatomically accurate hands and posture, realistic engine compartment and tools. Graphite #121212 walls with red #E31A1A tool cabinets and equipment. Medium three-quarter editorial view, mechanic and tablet in focus, clean believable workshop softly visible behind. Natural workshop lighting with cinematic but realistic contrast. No logos, no watermark, no slogans, no business signage. This is a fictional illustrative scene, not a photograph of an actual named business.
+
+## alinhamento.webp
+
+Use case: photorealistic-natural. Asset type: automotive workshop wheel service photo, landscape 1536x1024. Create a fictional photorealistic premium modern Brazilian automotive workshop wheel alignment and balancing bay. A silver unbranded car correctly positioned on a red alignment platform with credible wheel sensor targets attached to the wheels; nearby a red wheel balancing machine with a wheel mounted on its horizontal spindle. Accurate coherent automotive machinery, clean professional space, full practical service bay shown in a wide three-quarter composition. Graphite #121212 walls and red #E31A1A equipment, natural concrete floor, crisp realistic metal and rubber textures. Bright readable overhead workshop lighting with restrained premium photographic contrast. No logos, no watermark, no marketing text, no business signage. This is a fictional illustrative scene, not a photograph of an actual named business.
